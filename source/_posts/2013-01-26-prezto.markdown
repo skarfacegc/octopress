@@ -15,8 +15,7 @@ other than learning something new.
 I had been using [Robby Russel's](https://github.com/robbyrussell) excellent 
 zsh environment [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh) for 
 about a year.  After running into the myriad of dotfiles projects on gitHub I 
-decided to give it a shot and [roll my own](https://github.
-com/skarfacegc/dotfiles).  So I poked around to see if there were alternatives 
+decided to give it a shot and [roll my own](https://github.com/skarfacegc/dotfiles).  So I poked around to see if there were alternatives 
 to OMZ, not because there was anything wrong with it, but because I like to 
 tinker.  I ran into [prezto](https://github.com/sorin-ionescu/prezto) and 
 really liked it.  Prezto appears to have started as a reaction to OMZ's 
