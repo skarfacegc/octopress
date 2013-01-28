@@ -26,7 +26,7 @@ the autocomplete is nicely categorized, etc).  Solid OSX support (the macports m
 work very well together), and is pretty quick overall.
 
 I ported and extended a theme I wrote for OMZ to prezto. 
-{% img right images/coolblue_example.png %} You can grab it from 
+{% img right /images/coolblue_example.png %} You can grab it from 
 [here](https://github.com/skarfacegc/prezto/tree/submission/prompt-coolblue), 
 and I issued a pull request to the main repoitory. The prompt should show everything 
 you'd need to know about what's going on with your git repository.  
