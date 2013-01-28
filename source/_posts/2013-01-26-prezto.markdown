@@ -21,12 +21,14 @@ to OMZ, not because there was anything wrong with it, but because I like to
 tinker.  I ran into [prezto](https://github.com/sorin-ionescu/prezto) and 
 really liked it.  Prezto appears to have started as a reaction to OMZ's 
 kitchen sink approach.  It's very well organized, fairly few modules, and only 
-an handful of themes.
+an handful of themes.  It has excellent out of the box autocomplete (hosts out of known-hosts for ssh, 
+the autocomplete is nicely categorized, etc).  Solid OSX support (the macports module and gnu modules 
+work very well together), and is pretty quick overall.
 
-I ported and extended a theme I wrote for OMZ to prezto.  {% img right 
-images/coolblue_example.png %} You can grab it from [here](https://github.
-com/skarfacegc/prezto/tree/submission/prompt-coolblue), and I issued a pull 
-request to the main repoitory. The prompt should show everything you'd need to 
-know about what's going on with your git repository.  
+I ported and extended a theme I wrote for OMZ to prezto. 
+{% img right images/coolblue_example.png %} You can grab it from 
+[here](https://github.com/skarfacegc/prezto/tree/submission/prompt-coolblue), 
+and I issued a pull request to the main repoitory. The prompt should show everything 
+you'd need to know about what's going on with your git repository.  
 
 I'll be posting more about some of the tools I use on a daily (or almost daily basis).
