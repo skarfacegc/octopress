@@ -1,0 +1,32 @@
+---
+layout: post
+title: "prezto"
+date: 2013-01-26 01:31
+comments: true
+categories: [zsh, shell, tools]
+---
+
+I like to tinker with my working environment.  I like to check out alternate 
+window managers, new shells, launchers, editors, etc.  Most of the time it's 
+something to do that requires a little bit of brainpower, but is mostly 
+mindless.  It's kinda nice to screw around with stuff without any real goal 
+other than learning something new.
+
+I had been using [Robby Russel's](https://github.com/robbyrussell) excellent 
+zsh environment [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh) for 
+about a year.  After running into the myriad of dotfiles projects on gitHub I 
+decided to give it a shot and [roll my own](https://github.
+com/skarfacegc/dotfiles).  So I poked around to see if there were alternatives 
+to OMZ, not because there was anything wrong with it, but because I like to 
+tinker.  I ran into [prezto](https://github.com/sorin-ionescu/prezto) and 
+really liked it.  Prezto appears to have started as a reaction to OMZ's 
+kitchen sink approach.  It's very well organized, fairly few modules, and only 
+an handful of themes.
+
+I ported and extended a theme I wrote for OMZ to prezto.  {% img right 
+images/coolblue_example.png %} You can grab it from [here](https://github.
+com/skarfacegc/prezto/tree/submission/prompt-coolblue), and I issued a pull 
+request to the main repoitory. The prompt should show everything you'd need to 
+know about what's going on with your git repository.  
+
+I'll be posting more about some of the tools I use on a daily (or almost daily basis).
