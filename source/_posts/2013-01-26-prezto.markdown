@@ -4,6 +4,8 @@ title: "prezto"
 date: 2013-01-26 01:31
 comments: true
 categories: [zsh, shell, tools]
+description: "Switching from Oh My Zsh to prezto"
+keywords: "Oh my ZSH, omz, prezto, zsh, shell, github, dotfiles"
 ---
 
 I like to tinker with my working environment.  I like to check out alternate 

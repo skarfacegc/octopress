@@ -1,0 +1,32 @@
+---
+layout: post
+title: "fonts"
+date: 2013-01-31 00:57
+comments: true
+categories: [font, programming]
+keywords: "Source Code Pro, OSX, font book, install, sublimetext2, programming, fonts"
+description: "Using the source code pro font on OSX"
+---
+
+Occasionally I like to try new fonts.  
+{% img right /images/source_code_pro_font.png Source Code Pro in use %}
+
+I ran into a neat comparison at [slant.co](http://slant.co/topics/what-is-the-best-programming-font) of various mono-spaced fonts for programming.  Since I like to try new things I figured I'd give "Source Code Pro" a shot.  I ended up downloading the OTF files from [here](http://www.fontsquirrel.com/fonts/source-code-pro) which made the install a bit easier.  To install:
+
+1. [Download](http://www.fontsquirrel.com/fonts/source-code-pro) the OTF files
+2. Unzip the fonts
+3. Launch the Font Book application
+4. Drag the otf files into font book
+
+Now you should be able to use the font.  It works well as a terminal font, but I prefer it for editing.  
+
+
+**Configuring Sublimetext2**
+
+In order to activate your new font in SublimeText2 add the following to your user config (adjust font_size to your liking)
+
+    "font_face": "Source Code Pro",
+    "font_size": 14
+
+
+
