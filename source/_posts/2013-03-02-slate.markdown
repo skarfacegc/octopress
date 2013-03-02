@@ -1,0 +1,31 @@
+---
+layout: post
+title: "slate"
+date: 2013-03-02 09:27
+comments: true
+categories: "tools, OSX"
+keywords: "OSX, Window Manager, Slate, Tools"
+description: The slate window layout manager for OSX
+---
+
+
+I don't know that it always makes me more efficient, but I do like to see how much of my day to day
+computer usage can be done completely with the keyboard.  One thing that has always vexed me a bit is 
+managing window layouts.   
+
+I've got a particular window layout I like to use when I'm writing code.  I also occasionally like to move
+windows around as I need to focus on different things (browser, terminal, editor, etc), but, I do most of 
+my work with a particular layout.  I have cmd-ctrl-a mapped to:
+
+- launch Sublimetext
+- launch iTerm
+- launch SourceTree, 
+- Move iTerm to the left, full height
+- Move Sublimetext to the right, full height
+- Move SourceTree to the left most area on my 2nd monitor.
+
+You can see a video of slate in action below.  
+
+<iframe width="420" height="315" src="http://www.youtube-nocookie.com/embed/j6fCbYsKhKo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+[Here](https://gist.github.com/skarfacegc/4363747) is a link to my slate.conf.  Enjoy.
