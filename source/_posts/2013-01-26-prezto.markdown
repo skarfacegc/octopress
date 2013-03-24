@@ -31,5 +31,3 @@ I ported and extended a theme I wrote for OMZ to prezto.
 [here](https://github.com/skarfacegc/prezto/tree/submission/prompt-coolblue), 
 and I issued a pull request to the main repoitory. The prompt should show everything 
 you'd need to know about what's going on with your git repository.  
-
-I'll be posting more about some of the tools I use on a daily (or almost daily basis).
