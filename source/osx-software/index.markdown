@@ -23,6 +23,5 @@ but I figured it was time to put it in one place I could send people.  Here's th
 - **[XQuartz](http://xquartz.macosforge.org/landing/)** X11 Server.
 - **[iStat Menus](http://bjango.com/mac/istatmenus/) $$** Put CPU, MEM, Network, etc activity graphs in your menu. 
 
-*Updates**
 
 - 2013/04/05 - initial version.
