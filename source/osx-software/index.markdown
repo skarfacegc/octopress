@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "OSX software"
-date: 2013-04-05 11:41
 comments: false
 sharing: true
 footer: true
