@@ -22,7 +22,10 @@ but I figured it was time to put it in one place I could send people.  Here's th
     - I'm already using it, and it hasn't pissed me off enough to switch.
 - **[XQuartz](http://xquartz.macosforge.org/landing/)** X11 Server.
 - **[iStat Menus](http://bjango.com/mac/istatmenus/) $$** Put CPU, MEM, Network, etc activity graphs in your menu. 
+- **[SublimeText](http://www.sublimetext.com/) Nagware**  Windows/Linux/OSX  This is a hell of a text editor.  Multicursor mode, which I didn't think I'd use, is fantastic.  Use it a few times instead of complicated find/replace actions. 
+- **[Caffeine](http://lightheadsw.com/caffeine/)** Puts a coffee cup in your menu bar.  When you click it your screen won't sleep for a few hours (configurable).  This is fantastic if you do presentations with any frequency.
 
 **History**
 
-- 2013/04/05 - initial version.
+- 2013-04-05 - initial version
+- 2013-04-11 - Added caffeine and SublimeText
