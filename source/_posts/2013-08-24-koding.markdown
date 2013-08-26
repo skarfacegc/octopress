@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Koding"
+date: 2013-08-24 01:15
+comments: true
+categories: 
+---
+I've been messing around a bit with [Koding](http://www.koding.com/). Koding combines a real time message board, a linux vm (I think it's an [lxc](http://lxc.sourceforge.net/) container or something very similar), a surprisingly good terminal emulator (no 256-color though), and a equally surprisingly passable text editor ([ACE](http://ace.c9.io/#nav=about)).  None of what Koding provides I would consider best in breed, but the combination has some potential.  Also, all of my complaints with the applications provided are fixable.  If you don't like their tools you can always ssh into your vm  (read the [faq](http://koding.github.io/docs/guides/ssh-into-your-vm/) on this, it's non obvious)
+
+I've also started a [Koding section](Koding/) to house tutorials/other random musings.
+
+The Good
+-----
+The community has a ton of potential.  There are a few regulars and everything is fairly cordial.  I've been in and caused some interesting conversations.  The hybrid between a message board and IRC is interesting.  
+
+Setup was stupid easy.  Create your account, click develop, click the tiny terminal icon on your vm and you have a command line.  Full root access to an ubuntu container.  
+
+Shockingly good text editor.  I could do work in it if I needed to.  It would drive me a bit bonkers, but I could get it done.  Which is saying **a ton**.  
+
+SSH access.  This solves the editor problem.  I can edit locally and use something like the truly excellent [Sublime SFTP](http://koding.github.io/docs/guides/ssh-into-your-vm/) package to keep everything synchronized (or unison/rsync).  
+
+They don't try to be a webhost.  Your VM turns itself off after you've been idle for ~20 minutes or so.  They're not going to get killed hosting content.  They're focused on the dev environment.  
+
+The not as Good
+---------------
+The activity stream that drives the community side of things.  I think the midpoint between a message board and IRC has some serious potential.  It has some usability issues.
+
+1. Refresh isn't reliable.  Sometimes have to reload to update the stream.  The notifications widget is almost totally broken as far as I can tell.  It works sometimes, but doesn't seem to consistently let me know when someone has replied or commented in a thread I'm active on.
+2. No Search. Cool conversation from a few days ago?  Want to reference it?  Scroll!
+3. Awkward group/channel interface, it works, but not super well.  Switching between groups is two clicks and a scroll. (should be a primary action imo) No way to see a feed of multiple groups that I can find (i.e. only show me posts in my groups).
+
+The signal to noise ratio.  It's starting to get a bit better, which is awesome, but there's still TONS of duplicate content.  Same few questions about ssh and FTP.  Tons and tons of firstposts (which are all pretty much identical due to the way the tutorial is structured). Lots of "How do I learn X?".  None of this is bad per-se.  People are curious, they want to learn new things, which is fantastic.  However, if I have a few minutes a day to stop in, answer a question, and move on, I'm less likely to keep coming back unless there is something I want to answer.  I'll post links to the SSH faq, links to good google searches on a given topic etc.  But that's only going to last for so long.
+
+The terminal doesn't have a workable 256-color mode.  I know it's petty, but I like my colors!
+
+The networking is odd.  Everything seems to run through a proxy so you have to play some games with encrypted traffic.  I'm not sure SSL will work at all from your vm.
+
+
+Anyway, Koding is pretty cool.  I haven't regretted the time I've spent writing about it or messing around with it.  I'm curious to see where they are a year from now.
+
+
+
