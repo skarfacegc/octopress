@@ -31,7 +31,7 @@ The activity stream that drives the community side of things.  I think the midpo
 
 The signal to noise ratio.  It's starting to get a bit better, which is awesome, but there's still TONS of duplicate content.  Same few questions about ssh and FTP.  Tons and tons of firstposts (which are all pretty much identical due to the way the tutorial is structured). Lots of "How do I learn X?".  None of this is bad per-se.  People are curious, they want to learn new things, which is fantastic.  However, if I have a few minutes a day to stop in, answer a question, and move on, I'm less likely to keep coming back unless there is something I want to answer.  I'll post links to the SSH faq, links to good google searches on a given topic etc.  But that's only going to last for so long.
 
-The terminal doesn't have a workable 256-color mode.  I know it's petty, but I like my colors!
+<del>The terminal doesn't have a workable 256-color mode.  I know it's petty, but I like my colors!</del>  **Colors work!**
 
 The networking is odd.  Everything seems to run through a proxy so you have to play some games with encrypted traffic.  I'm not sure SSL will work at all from your vm.
 
