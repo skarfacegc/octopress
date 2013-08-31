@@ -33,7 +33,9 @@ The signal to noise ratio.  It's starting to get a bit better, which is awesome,
 
 <del>The terminal doesn't have a workable 256-color mode.  I know it's petty, but I like my colors!</del>  **Colors work!**
 
-The networking is odd.  Everything seems to run through a proxy so you have to play some games with encrypted traffic.  I'm not sure SSL will work at all from your vm.
+The networking is odd.  Everything seems to run through a proxy so you have to play some games with encrypted traffic.  I'm not sure SSL will work at all from your vm. 
+
+**Note:** https works for you vm, I am mainly referring to setting up your own services that use SSL.
 
 
 Anyway, Koding is pretty cool.  I haven't regretted the time I've spent writing about it or messing around with it.  I'm curious to see where they are a year from now.
