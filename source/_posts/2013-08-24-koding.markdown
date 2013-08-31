@@ -3,7 +3,7 @@ layout: post
 title: "Koding"
 date: 2013-08-24 01:15
 comments: true
-categories: [koding, development]
+categories: [koding, programming]
 keywords: "koding, development, linux"
 ---
 I've been messing around a bit with [Koding](http://www.koding.com/). Koding combines a real time message board, a linux vm (I think it's an [lxc](http://lxc.sourceforge.net/) container or something very similar), a surprisingly good terminal emulator (no 256-color though), and a equally surprisingly passable text editor ([ACE](http://ace.c9.io/#nav=about)).  None of what Koding provides I would consider best in breed, but the combination has some potential.  Also, all of my complaints with the applications provided are fixable.  If you don't like their tools you can always ssh into your vm  (read the [faq](http://koding.github.io/docs/guides/ssh-into-your-vm/) on this, it's non obvious)
